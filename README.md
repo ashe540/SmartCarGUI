@@ -12,18 +12,17 @@ Version: v0.1 May 2014
 
 List of voice commands available:
 
-`Car on / Car off
-`
-`Radio on/ Radio off
-`
-`Radio next
-`
-`Radio previous
-`
-`Radio random
-`
-`Air condition on / Air condition off
-`
+`Car on / Car off`
+<br/>
+`Radio on/ Radio off`
+<br/>
+`Radio next`
+<br/>
+`Radio previous`
+<br/>
+`Radio random`
+<br/>
+`Air condition on / Air condition off`
 
 
 ### TECHNOLOGY:
